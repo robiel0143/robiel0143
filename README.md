@@ -1,3 +1,5 @@
+## About Me
+
 # My Journey from Electrical Engineering to Programming
 
 My name is **Robel**,
@@ -29,7 +31,7 @@ about memorizing code. It’s about understanding the
   from **Electrical Engineering** to programming, I found immense pride in
   achieving this milestone through self-determination and hard work."
 
-## References
+# References
 
 Here are some of the resources I used during my learning process, numbered for
 anyone who wants to follow a similar step-by-step study path:
