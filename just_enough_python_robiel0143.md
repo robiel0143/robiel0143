@@ -313,9 +313,13 @@ user_variable = input("enter some text:\n")
 # stores a value in terms of a str no matter what value you give it
 
 # --- output ---
-<!-- markdownlint-disable MD013  -->
-# -- prints a message but does not ask for a new text to be stored in the user_variable,simply it concatenates the "thank you for this text:" with the previously stored value inside user_variable because the stored value is a string. 
-<!-- markdownlint-enable MD013 -->
+
+'This program prints a message but does not ask for  new text to be stored in the
+user_variable. Instead, it simply concatenates the string "thank you for this text:"
+with the previously stored value inside user_variable. This works because the stored
+value is a string.'
+
+
 print('thank you for this text: ' + user_variable)
 ```
 
